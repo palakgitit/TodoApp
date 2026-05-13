@@ -1,0 +1,13 @@
+{
+  
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "method-override": "^3.0.0",
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
