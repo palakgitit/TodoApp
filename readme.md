@@ -123,13 +123,11 @@ Deleted task disappears from dashboard.
 ---
 ##  ScreenShots
 
-    ![alt text](<Screenshot 2026-05-13 101140.png>)
+![pic-1](<Screenshot 2026-05-13 101209.png>)
 
+![pic-2](<Screenshot 2026-05-13 101157.png>)
 
-    ![alt text](<Screenshot 2026-05-13 101209.png>)
-
-
-    ![alt text](<Screenshot 2026-05-13 101157.png>)
+![pic-3](<Screenshot 2026-05-13 101140.png>)
 ## Task Status Management Module
 
 ### Status Flow
