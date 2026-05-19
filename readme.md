@@ -1,6 +1,6 @@
 # Real-Time Todo Management System
 
-## roject Definition
+## Project Definition
 
 ### Title
 Real-Time Todo Management System
